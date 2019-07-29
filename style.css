@@ -73,12 +73,12 @@ body {
 
 #page-1 p {
     transform: translateX(-1800px);
-    animation: text var(--animate-speed) forwards ease-in-out 1.8s;
+    animation: text var(--animate-speed) forwards ease-in-out 1.5s;
 }
 
 #page-1 .btn {
     transform: translateX(1800px);
-    animation: button var(--animate-speed) forwards ease-out 2s;
+    animation: button var(--animate-speed) forwards ease-out 1.8s;
 }
 
 
